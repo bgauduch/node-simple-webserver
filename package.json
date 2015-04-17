@@ -1,0 +1,33 @@
+{
+  "name": "simpleWebServer",
+  "version": "1.0.0",
+  "description": "Dead simple web server using node.js+Express.js+forever",
+  "main": "app.js",
+  "scripts": {
+    "start": "forever -w app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BaptisteGauduchon/simpleWebServer.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "forever",
+    "web",
+    "server",
+    "simple"
+  ],
+  "author": "Baptiste Gauduchon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BaptisteGauduchon/simpleWebServer/issues"
+  },
+  "homepage": "https://github.com/BaptisteGauduchon/simpleWebServer",
+  "dependencies": {
+    "express": "latest",
+    "forever": "latest",
+    "morgan": "latest"
+  }
+}
