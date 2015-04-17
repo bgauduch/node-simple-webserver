@@ -8,6 +8,7 @@ It's written using the awesome **node.js + express.js** combo. Logging done via 
 3. in browser : type in `localhost`
 
 *prerequist : node.js & NPM installed*
+
 *if you get **EADDRINUSE** error, check that you don't already have something running on port 80.*
 
 ## How it work :
