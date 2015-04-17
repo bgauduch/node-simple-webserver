@@ -1,11 +1,11 @@
 # simpleWebServer
 Dead simple web server that I use to fast-deploy static website / web application, mostly locally.
-It's written using the awesome node.js + express.js combo. logging done via morgan.
+It's written using the awesome **node.js + express.js** combo. logging done via morgan.
 
 ## Usage :
-* download & extract repository locally
-* in terminal : `npm install && npm start` (web server started at `localhost:80`)
-* in browser, type in `localhost`
+- download & extract repository locally
+- in terminal : `npm install && npm start` (web server started at `localhost:80`)
+- in browser : type in `localhost`
 
 *prerequist : node.js & NPM installed*
 
