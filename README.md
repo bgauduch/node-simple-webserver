@@ -16,5 +16,5 @@ Simply copy-paste your website / application into the "public" folder. You can s
 
 ## Disclaimer :
 this is **NOT** intended for anything other than dev purpose, as this is **NOT SECURE AT ALL**.
-If you want more, you should move to SSL / TLS secured web server.
+If you want more, you should consider moving to a SSL / TLS secured web server solution.
 GIYF.
