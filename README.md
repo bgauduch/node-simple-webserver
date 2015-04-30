@@ -12,7 +12,7 @@ Notes :
 * If you get **EADDRINUSE** error, check that you don't already have something running on port 80.
 
 ## How it work :
-Simply copy-paste your website / application into the "public" folder. You can safely override the *HTML + CSS + JS* basic templete in there.
+Simply copy-paste your website / application into the "public" folder. You can safely override the *HTML + CSS + JS* template already there.
 
 ## Disclaimer :
 this is **NOT** intended for anything other than dev purpose, as this is **NOT SECURE AT ALL**.
