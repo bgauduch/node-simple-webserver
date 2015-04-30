@@ -1,6 +1,6 @@
 # simpleWebServer
 Dead simple web server that I use to fast-deploy static website / web application, mostly locally.
-It's written using the awesome **node.js + express.js** combo. Logging done via *morgan*.
+It's written using the awesome **node.js + express.js** combo. Logging done via **morgan**.
 
 ## Usage :
 1. download & extract repository locally
