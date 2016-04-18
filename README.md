@@ -1,4 +1,4 @@
-# Node Simple Web Server
+# Simple Node.js Web Server
 Dead simple web server that I use to fast-deploy static website / web application, mostly locally.
 It's written using the awesome **node.js + express.js** combo. Logging done via **morgan**.
 
